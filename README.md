@@ -103,35 +103,8 @@ src/
 
 ---
 
-## **Katkıda Bulunma**
-1. Projeyi fork'layın.
-2. Bir özellik dalı oluşturun:
-   ```bash
-   git checkout -b ozellik/ozellik-adi
-   ```
-3. Değişikliklerinizi commit edin:
-   ```bash
-   git commit -m "Yeni özelliği ekledim"
-   ```
-4. Dalınızı gönderin:
-   ```bash
-   git push origin ozellik/ozellik-adi
-   ```
-5. Bir pull request açın.
-
----
-
-## **Lisans**
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
-
----
 
 ## **İletişim**
-Sorularınız veya geri bildirimleriniz için benimle iletişime geçebilirsiniz: [email@ornek.com](mailto:email@ornek.com)
+Sorularınız veya geri bildirimleriniz için benimle iletişime geçebilirsiniz: sidaryurdusever@gmail.com
 ```
 
-### **Nasıl Kullanılır?**
-- `README.md` dosyasını projenizin kök dizinine ekleyin.
-- GitHub'a projeyi yüklediğinizde, bu dosya otomatik olarak ana sayfanızda görüntülenecektir.
-
-Ekran görüntüsü eklemek isterseniz, ilgili görselleri GitHub reposuna yükleyip `path/to/` kısmını doğru yollarla değiştirin. 😊
