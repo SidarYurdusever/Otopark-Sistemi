@@ -93,18 +93,16 @@ src/
 
 ## **Ekran Görüntüleri**
 ### Araç Girişi
-![Araç Girişi Ekran Görüntüsü](path/to/vehicle-entry.png)
+![Araç Girişi Ekran Görüntüsü](Görseller/ParkingSystm.png)
 
 ### Araç Çıkışı
-![Araç Çıkışı Ekran Görüntüsü](path/to/vehicle-exit.png)
+![Araç Çıkışı Ekran Görüntüsü](Görseller/Exit.png)
 
 ### Dolu Park Yerleri
-![Dolu Park Yerleri Ekran Görüntüsü](path/to/vehicle-list.png)
+![Dolu Park Yerleri Ekran Görüntüsü](Görseller/table.png)
 
 ---
 
 
 ## **İletişim**
 Sorularınız veya geri bildirimleriniz için benimle iletişime geçebilirsiniz: sidaryurdusever@gmail.com
-```
-
